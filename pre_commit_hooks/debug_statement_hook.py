@@ -18,7 +18,7 @@ DEBUG_STATEMENTS = {
     'rdb',
     'rpdb',
     'wdb',
-    '__import__("pdb")'
+    '__import__("pdb").set_trace()'
 }
 
 
