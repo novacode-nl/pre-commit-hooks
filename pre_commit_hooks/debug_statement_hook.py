@@ -18,6 +18,7 @@ DEBUG_STATEMENTS = {
     'rdb',
     'rpdb',
     'wdb',
+    '__import__("pdb")'
 }
 
 
